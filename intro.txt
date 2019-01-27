@@ -1,1 +1,8 @@
-2nd intro for 2nd PR
+# Introduction
+Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects.
+This repo can be used to practice creating PRs.
+
+Adding more stuff for fun
+this is just for testing
+
+this is after merging PR conflict
